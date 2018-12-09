@@ -1,6 +1,6 @@
 #!/bin/bash
 #XMRig CPU and GPU miner
-#Created by yohannxvx
+#Created by PHC-Raf
 #Tested on with Ubuntu 16.04
 
 clear
@@ -9,7 +9,7 @@ clear
 
 echo  "  XMRig CPU and GPU installer for Ubuntu 16.04"
 echo  " "
-echo  "  Created by yohannxvx"
+echo  "  Created by PHC-Raf"
 echo  " "
 echo  "  Installation will begin in a few seconds.."
 
